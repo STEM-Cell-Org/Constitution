@@ -1,5 +1,5 @@
 # THS-Constitution
----
+
 ### Preamble
 We the People of Vojes Enterprises (VE) and the lot of those among us as a part of this common union, ordain and establish this work as the constitution of The Hackspace (THS), formally incorporated as VE Spaces, in order to conduct proper operation, form order of the union, provide civil action, and further establish privileges for those collectively gathered under The Hackerspace.
 
