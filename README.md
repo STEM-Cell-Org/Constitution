@@ -44,3 +44,8 @@ Moderators will vote on the amendment proposal. Two-thirds of the moderators are
 Executors will finally sign the amendment proposal in approval to finalize or veto it altogether. It is the duty of the executor to veto or approve any legislation. Neither the admins or the moderators may veto or finalize the proposal.
 
 The amendment will be added to the list of the amendments below as part of the Constitution. The amendments are numbered and ordered in chronological order with the date that it was added, the title of the amendment, and the amendment itself as subtext. Signed beneath every amendment description will be both voting moderators, also known as voters, for or against the proposal when the amendment is enacted into the Constitution. Each signature will be prepended by a “yay” or “nay” for whether they voted for the proposal to be enacted. This is to ensure a valid number of voters were present, the percentage of voters was true to pass, and for evidence of the legislation being passed so that any person’s signature can be queried for proof. After an amendment is passed, any moderator that did not get to vote can sign in approval to strengthen the amendment. No additional moderators can vote “nay” after the proposal’s threshold is passed.
+
+# Amendments
+
+### Amendment I
+Members and the server have the privilege to an identity. One may not impersonate any of the members or the server.
