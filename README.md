@@ -49,3 +49,6 @@ The amendment will be added to the list of the amendments below as part of the C
 
 ### Amendment I
 Members and the server have the privilege to an identity. One may not impersonate any of the members or the server.
+
+### Amendment II
+Moderator may make a waver by adding a 👋 or wave to not be counted in the vote. The waver or abstain vote means that the moderator does not count in the required votes. This is a total neutral stance such that the five-eighths or two-thirds required vote is of all moderators but those that have wavered.
